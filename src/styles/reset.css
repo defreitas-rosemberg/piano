@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* tira o "efeito de selecionado" causado pela tecla tab */
+    outline: none;
+    font-family: "Poppins", sans-serif;
+}
